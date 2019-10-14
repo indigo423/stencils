@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1380 2980" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Rack-Empty" serif:id="Rack Empty" transform="matrix(8.5934,0,0,8.5934,-1598.91,-7369.69)">
+        <g id="Rack">
+            <path d="M280.987,861.762L344.269,893.403L252.676,939.2L189.393,907.559L280.987,861.762Z" style="fill:rgb(52,52,52);"/>
+            <path d="M256.007,940.865L340.938,898.357L341.06,1153.13L256.129,1195.6L256.007,940.865ZM252.676,939.2L252.676,1200.66L344.391,1154.8L344.269,893.403L252.676,939.2Z" style="fill:rgb(82,82,82);"/>
+            <path d="M252.676,1200.66L189.393,1169.02L189.393,907.559L252.676,939.2L252.676,1200.66ZM192.724,912.554L249.345,940.865L249.345,1195.66L192.724,1167.35L192.724,912.554Z" style="fill:rgb(0,0,4);"/>
+        </g>
+    </g>
+</svg>
