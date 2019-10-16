@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Wazuh-Agent" serif:id="Wazuh Agent" transform="matrix(1,0,0,1,-160,8.52651e-14)">
+        <g transform="matrix(1.875,0,0,1.875,-805,-485)">
+            <circle cx="728" cy="472" r="200" style="fill:rgb(0,169,229);"/>
+        </g>
+        <g id="Agent-Logo" serif:id="Agent Logo" transform="matrix(1.02632,0,0,1.02632,-14.7368,4.88784)">
+            <g transform="matrix(2.95377,0,0,3.69462,85.9193,-2161.23)">
+                <path d="M48,693.386L48.001,693.386C112.159,636.356 208.841,636.356 272.999,693.386L273,693.386L272.999,693.387C208.841,750.417 112.159,750.417 48.001,693.387L48,693.386Z" style="fill:none;stroke:rgb(255,254,254);stroke-width:5.83px;"/>
+            </g>
+            <g id="W-Badge" serif:id="W Badge" transform="matrix(1.32755,0,0,1.32755,137.176,41.4692)">
+                <g transform="matrix(1.21875,0,0,1.21875,-578.5,-139)">
+                    <circle cx="736" cy="336" r="80" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.1,0,0,0.694375,-367.9,99.1052)">
+                    <path d="M544,176L592,336L624,272L656,336L704,176" style="fill:none;stroke:rgb(0,169,229);stroke-width:17.94px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

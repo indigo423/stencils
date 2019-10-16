@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1100 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Wazuh-Manager" serif:id="Wazuh Manager" transform="matrix(2.97143,0,0,2.97143,-180.114,-411.886)">
+        <g id="Server" transform="matrix(1,0,0,1,4.26326e-14,181)">
+            <g transform="matrix(0.930305,0,0,0.78125,-75.2009,-6)">
+                <path d="M528,200.615C528,195.857 524.761,192 520.765,192C473.266,192 206.513,192 159.014,192C155.018,192 151.779,195.857 151.779,200.615C151.779,218.848 151.779,261.152 151.779,279.385C151.779,284.143 155.018,288 159.014,288C206.513,288 473.266,288 520.765,288C524.761,288 528,284.143 528,279.385C528,261.152 528,218.848 528,200.615Z" style="fill:rgb(0,169,229);"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,7.60412,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,33.6041,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Server1" serif:id="Server" transform="matrix(1,0,0,1,4.26326e-14,90.5)">
+            <g transform="matrix(0.930305,0,0,0.78125,-75.2009,-6)">
+                <path d="M528,200.615C528,195.857 524.761,192 520.765,192C473.266,192 206.513,192 159.014,192C155.018,192 151.779,195.857 151.779,200.615C151.779,218.848 151.779,261.152 151.779,279.385C151.779,284.143 155.018,288 159.014,288C206.513,288 473.266,288 520.765,288C524.761,288 528,284.143 528,279.385C528,261.152 528,218.848 528,200.615Z" style="fill:rgb(0,169,229);"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,7.60412,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,33.6041,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Server2" serif:id="Server">
+            <g transform="matrix(0.930305,0,0,0.78125,-75.2009,-6)">
+                <path d="M528,200.615C528,195.857 524.761,192 520.765,192C473.266,192 206.513,192 159.014,192C155.018,192 151.779,195.857 151.779,200.615C151.779,218.848 151.779,261.152 151.779,279.385C151.779,284.143 155.018,288 159.014,288C206.513,288 473.266,288 520.765,288C524.761,288 528,284.143 528,279.385C528,261.152 528,218.848 528,200.615Z" style="fill:rgb(0,169,229);"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,7.60412,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.479522,0,0,0.479522,33.6041,10.3806)">
+                <circle cx="196.854" cy="356.854" r="20.854" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="W-Badge" serif:id="W Badge">
+            <g transform="matrix(1.21875,0,0,1.21875,-578.5,-139)">
+                <circle cx="736" cy="336" r="80" style="fill:rgb(0,169,229);stroke:white;stroke-width:12.31px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.63125,-304,112.9)">
+                <path d="M544,176L592,336L624,272L656,336L704,176" style="fill:none;stroke:white;stroke-width:17.94px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

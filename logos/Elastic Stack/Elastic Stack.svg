@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 780 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Elastic-Stack" serif:id="Elastic Stack" transform="matrix(12.0625,0,0,12.0625,-92.5,-82.5)">
+        <g transform="matrix(1,0,0,1,72,8)">
+            <path d="M0,18L0,5C0,2.238 -2.238,0 -5,0L-59,0C-61.762,0 -64,2.238 -64,5L-64,18L0,18Z" style="fill:rgb(240,78,152);"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,80,0)">
+            <rect x="8" y="32" width="64" height="16" style="fill:rgb(0,191,179);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,37,72)">
+            <path d="M0,-18L-29,-18L-29,-5C-29,-2.238 -26.762,0 -24,0L0,0L0,-18Z" style="fill:rgb(0,119,204);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,43,72)">
+            <path d="M0,-18L0,0L24,0C26.762,0 29,-2.238 29,-5L29,-18L0,-18Z" style="fill:rgb(254,197,20);"/>
+        </g>
+    </g>
+</svg>
