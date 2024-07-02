@@ -25,4 +25,4 @@ All other trademarks cited herein are the property of their respective owners.
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) by mentioning the [OpenNMS Community](https://www.opennms.com).
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by mentioning Ronny Trommer.
